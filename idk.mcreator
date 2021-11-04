@@ -1,0 +1,146 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "UDIED",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "udied"
+    },
+    {
+      "name": "Gapple",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gapple"
+    },
+    {
+      "name": "THEMDED",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "themded"
+    },
+    {
+      "name": "OneShot",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "one_shot"
+    },
+    {
+      "name": "Op",
+      "type": "enchantment",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "op"
+    },
+    {
+      "name": "Gun",
+      "type": "rangeditem",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun"
+    },
+    {
+      "name": "Lolw",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lolw"
+    },
+    {
+      "name": "Lole",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lole"
+    },
+    {
+      "name": "GunBulletHitsPlayer",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun_bullet_hits_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GunBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "enchantment.idk.op": "Op",
+      "advancements.udied.title": "UDIED",
+      "advancements.udied.descr": "UDIED",
+      "item.idk.one_shot": "One Shot",
+      "itemGroup.tabthemded": "THEMDED",
+      "item.idk.gun": "Gun",
+      "item.idk.gapple": "Gapple"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "idk",
+    "modName": "IDK",
+    "version": "1.0.0",
+    "author": "test, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "test.mod.idk",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

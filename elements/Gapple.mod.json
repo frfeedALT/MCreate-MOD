@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "gapple",
+    "customModelName": "Normal",
+    "name": "Gapple",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "death"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:THEMDED"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 100,
+    "saturation": 100.0,
+    "eatingSpeed": 1,
+    "resultItem": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

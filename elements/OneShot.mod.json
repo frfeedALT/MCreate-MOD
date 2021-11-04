@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pickaxe",
+    "customModelName": "Normal",
+    "name": "One Shot",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:THEMDED"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 99999,
+    "efficiency": 99999.0,
+    "attackSpeed": 100.0,
+    "enchantability": 99999,
+    "damageVsEntity": 99999.0,
+    "usageCount": 111999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

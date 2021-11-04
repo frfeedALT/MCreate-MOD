@@ -1,0 +1,16 @@
+{
+  "group": "idk",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "idk:gun",
+    "count": 1
+  }
+}
